@@ -124,8 +124,8 @@ nnoremap <S-n> :NERDTreeToggle<CR>
 set wildignore+=*/.git/*,*/.hg/*,*/.svn/*
 
 "Template
-let g:tmpl_author_email = 'monir81.mk@gmail.com'
-let g:tmpl_author_name = 'Monir'
+let g:tmpl_author_email = 'You@gmail.com'
+let g:tmpl_author_name = 'Your Name'
 
 
 " vim-airline
