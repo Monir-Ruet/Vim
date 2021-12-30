@@ -1,4 +1,4 @@
-# Vim for Compettitive Programmers (Best Configuration)
+# Vim for Compettitive Programmers (Best Customization)
 
 `Hello Vim Lovers`
 
